@@ -66,7 +66,3 @@ This project demonstrates the integration of domain expertise, advanced algorith
 
 ---
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
